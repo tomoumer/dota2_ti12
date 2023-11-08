@@ -1,2 +1,9 @@
-# dota2_ti12
-A look at the data from TI 12
+# Dota2 TI 12
+
+Just for fun, looking at the data pertninent to The International 2023, aka, TI 12 that I was able to attend in person. So specifically, I'll be looking at the matches between the top 8 remaining teams, competing for the Aegis on October 27-29 in the Climate Pledge Arena in Seattle.
+
+It was a fantastic event culminating in the well deserved victory of Team Spirit. GG.
+
+Data downloaded from [datdota](https://datdota.com/).
+
+Last but not least: ༼つ ◕_◕ ༽つ VOLVO GIB PATCH PLS ༼つ ◕_◕ ༽つ
